@@ -47,9 +47,9 @@ De forma mais específica, os objetivos são:
 
 ## 📁 Estrutura do Projeto
 
-├── dash_cancer_mama.py        # código principal do dashboard
-├── dataset_cancer_mama_02.xlsx  # dataset Wisconsin Breast Cancer
-├── requirements.txt           # dependências do projeto
+├── dash_cancer_mama.py        
+├── dataset_cancer_mama_02.xlsx  
+├── requirements.txt         
 └── README.md
 ---
 
