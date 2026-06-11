@@ -77,12 +77,12 @@ streamlit run dash_cancer_mama.py
 
 ## 🌐 Deploy
 
-Acesse o dashboard em produção:
-[https://seu-usuario-dashboard.streamlit.app](https://seu-usuario-dashboard.streamlit.app)
+Acesse o dashboard em:
+[https://mariacamargo-ds-dashboard.streamlit.app](https://dashboard-cancer-mama-svm-20260506.streamlit.app))
 
 ---
 
 ## 👩‍💻 Autora
 
 Maria Eduarda da Cruz de Camargo
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/SEU_USUARIO)
+[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/mariacamargo-ds)
